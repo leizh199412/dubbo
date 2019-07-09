@@ -13,6 +13,7 @@ public class UserApplicationTests {
 	public void contextLoads() {
 		System.out.println("hello world");
 		System.out.println("你好！");
+		System.out.println("世界");
 	}
 
 
